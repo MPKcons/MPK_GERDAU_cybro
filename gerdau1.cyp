@@ -232,7 +232,7 @@ begin
   inicializa_var();
   Le_Entradas();
   
-  
+  // aygagygag
   //-----------
   // if que verifica se tem algum laço ativo (se tem trem ou não )
   //-----------
